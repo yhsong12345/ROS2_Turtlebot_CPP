@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/youhans/ros2_cpp/build/my_robot_controller/pub" "/home/youhans/ros2_cpp/build/my_robot_controller/sub" "/home/youhans/ros2_cpp/build/my_robot_controller/control" "TARGETS" "pub" "sub" "control" "DESTINATION" "lib/my_robot_controller")

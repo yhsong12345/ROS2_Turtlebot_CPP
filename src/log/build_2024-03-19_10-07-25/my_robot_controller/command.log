@@ -1,0 +1,6 @@
+Invoking command in '/home/youhans/ros2_cpp/src/build/my_robot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/youhans/ros2_cpp/src/my_robot_controller -DCMAKE_INSTALL_PREFIX=/home/youhans/ros2_cpp/src/install/my_robot_controller
+Invoked command in '/home/youhans/ros2_cpp/src/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/youhans/ros2_cpp/src/my_robot_controller -DCMAKE_INSTALL_PREFIX=/home/youhans/ros2_cpp/src/install/my_robot_controller
+Invoking command in '/home/youhans/ros2_cpp/src/build/my_robot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/youhans/ros2_cpp/src/build/my_robot_controller -- -j16 -l16
+Invoked command in '/home/youhans/ros2_cpp/src/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/youhans/ros2_cpp/src/build/my_robot_controller -- -j16 -l16
+Invoking command in '/home/youhans/ros2_cpp/src/build/my_robot_controller': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/youhans/ros2_cpp/src/build/my_robot_controller
+Invoked command in '/home/youhans/ros2_cpp/src/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/youhans/ros2_cpp/src/build/my_robot_controller
